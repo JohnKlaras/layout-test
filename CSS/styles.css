@@ -1,0 +1,29 @@
+body {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right:auto;
+  border: 3px solid black;
+}
+
+header {
+    background-color: #eee;
+    height: 60px;
+    margin-top: -10px;
+    width: 100%;
+    max-width: 960px;
+}
+
+nav {
+  background-color: salmon;
+  height: 50px;
+  display:inline-block;
+  width: 100%;
+}
+ nav li {
+   display: inline;
+   padding-top: 5px:
+ }
+h1 {
+  margin: 0 0 0 0;
+  padding: 15px 0 0 10px;
+}
