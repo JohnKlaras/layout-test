@@ -1,9 +1,12 @@
+html{
+  box-sizing: border-box;
+}
+
 body {
   max-width: 960px;
   margin-left: auto;
   margin-right:auto;
-  border: 3px solid black;
-}
+  }
 
 header {
     background-color: #eee;
@@ -15,15 +18,35 @@ header {
 
 nav {
   background-color: salmon;
-  height: 50px;
-  display:inline-block;
+  height: 30px;
+  display: inline-block;
   width: 100%;
 }
  nav li {
    display: inline;
-   padding-top: 5px:
+   padding-top: 0px:
  }
 h1 {
   margin: 0 0 0 0;
   padding: 15px 0 0 10px;
+}
+
+section {
+  float: left;
+  width: 67%;
+  background-color: #96C87B;
+  height: 800px;
+  margin: 0;
+
+}
+
+aside {
+  width: 33%;
+  float: left;
+  height: 800px;
+  background-color: violet;
+}
+
+p, h2 {
+  padding: 5px 10px 0 10px;
 }
