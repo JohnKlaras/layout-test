@@ -1,7 +1,7 @@
 # layout-test
 # _Epicodus Layout Test_
 
-##### _This is the Simple Two Column Layout test for Epicodus' Intro to Programming Class, 12-18-2015_
+##### _This is the Simple Two Column Layout test for Epicodus' Intro to Programming Class, 09-18-2015_
 
 #### By _**John (Rick) Klaras**_
 
