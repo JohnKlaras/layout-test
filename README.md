@@ -11,15 +11,16 @@ _The purpose of this layout test is to verify that I have learned the necessary 
 
 ## Setup
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+_To view this website, [click here!](http://johnklaras.github.io/layout-test/)
 
 ## Technologies Used
 
 _In addition to HTML and CSS, I used Photoshop to match the colors of the original example exactly. Just for fun, I tried to recreate the original example as closely as possible._
+
+## Known Bugs
+
+* none of the links go anywhere
+* so ugly
 
 ### Legal
 
