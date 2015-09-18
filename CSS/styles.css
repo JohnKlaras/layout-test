@@ -58,3 +58,22 @@ p, h2 {
   padding: 0px 10px 0 10px;
   margin-top: 10px;
 }
+
+@media screen and (max-width: 400px) {
+  section {
+    display: block;
+    width: 100%;
+  }
+  aside {
+    display: block;
+    width: 100%;
+  }
+
+}
+
+@media screen and (max-width: 600px){
+  h1 {
+    font-size: 5.3vw;
+  }
+
+}
