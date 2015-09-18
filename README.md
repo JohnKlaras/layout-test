@@ -11,7 +11,7 @@ _The purpose of this layout test is to verify that I have learned the necessary 
 
 ## Setup
 
-_To view this website, [click here!](http://johnklaras.github.io/layout-test/)
+_To view this website, [click here!](http://johnklaras.github.io/layout-test/)_
 
 ## Technologies Used
 
