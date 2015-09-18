@@ -42,7 +42,7 @@ section {
   float: left;
   width: 67%;
   background-color: #9acc99;
-  height: 800px;
+  height: 1024px;
   margin: 0;
 
 }
@@ -50,7 +50,7 @@ section {
 aside {
   width: 33%;
   float: left;
-  height: 800px;
+  height: 1024px;
   background-color: #9999cd;
 }
 
