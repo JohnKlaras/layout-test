@@ -20,7 +20,7 @@ body {
 
 /*HEADER*/
 
-header {
+.header {
     background-color: #dddddd;
     height: 60px;
     margin-top: -10px;
@@ -35,17 +35,17 @@ h1 {
 
 /*NAV*/
 
-nav {
+.nav {
   background-color: #cc9998;
   height: 30px;
   width: 100%;
 }
- nav ul {
+ .nav ul {
    padding-left: 10px;
    margin: 0 0 0 0;
  }
 
- nav li {
+ .nav li {
    display: inline-block;
    padding-top: 7px;
  }
@@ -53,7 +53,7 @@ nav {
 
 /*COLUMN 1*/
 
-section {
+.section {
   float: left;
   width: 67%;
   background-color: #9acc99;
@@ -64,7 +64,7 @@ section {
 
 /*COLUMN 2*/
 
-aside {
+.aside {
   width: 33%;
   float: left;
   height: 1024px;
