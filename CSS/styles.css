@@ -1,15 +1,18 @@
 html{
   box-sizing: border-box;
+  height: auto;
+  width: auto;
 }
 
 body {
   max-width: 960px;
   margin-left: auto;
   margin-right:auto;
+  background-color: #a8a19b;
   }
 
 header {
-    background-color: #eee;
+    background-color: #dddddd;
     height: 60px;
     margin-top: -10px;
     width: 100%;
@@ -17,14 +20,18 @@ header {
 }
 
 nav {
-  background-color: salmon;
+  background-color: #cc9998;
   height: 30px;
-  display: inline-block;
   width: 100%;
 }
+ nav ul {
+   padding-left: 10px;
+   margin: 0 0 0 0;
+ }
+
  nav li {
-   display: inline;
-   padding-top: 0px:
+   display: inline-block;
+   padding-top: 7px;
  }
 h1 {
   margin: 0 0 0 0;
@@ -34,7 +41,7 @@ h1 {
 section {
   float: left;
   width: 67%;
-  background-color: #96C87B;
+  background-color: #9acc99;
   height: 800px;
   margin: 0;
 
@@ -44,9 +51,10 @@ aside {
   width: 33%;
   float: left;
   height: 800px;
-  background-color: violet;
+  background-color: #9999cd;
 }
 
 p, h2 {
-  padding: 5px 10px 0 10px;
+  padding: 0px 10px 0 10px;
+  margin-top: 10px;
 }
